@@ -1,0 +1,24 @@
+.card-body-1 {
+    background: contain;
+    background: url("images/calender.jpeg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+.card-body-2 {
+    background: contain;
+    background: url("images/excel.jpeg");
+    /* overflow: hidden; */
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+.card-body-3 {
+    background: contain;
+    background: url("images/timing.jpeg");
+    height: 250px;
+    width: 350px;
+    background-position: center;
+}
