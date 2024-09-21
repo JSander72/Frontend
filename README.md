@@ -58,7 +58,4 @@
 
 ### GitHub Repository
 
-- Create a GitHub repository for the project and commit code regularly.
-- Maintain a clean and interactive README.md file, providing clear instructions on how to run the application and explanations of its features.
-- Include a link to the GitHub repository in the project documentation.
-  
+- [GitHub repository](https://github.com/JSander72/Frontend_Week4_Mini_Project_Task_Management_App.git)
